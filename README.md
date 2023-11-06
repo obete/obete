@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @obete
-- 👀 I’m interested in Position, Navigation and Time
-- 🌱 I’m currently learning GNSS Postioning Algorithms
-- 💞️ I’m looking to collaborate low cost PNT efforts
+- 👀 I’m interested in high-precision Positioning, Autonomous Navigation and Mapping
+- 🌱 I’m currently learning Sensor Fusion
+- 💞️ I’m looking to collaborate efforts in giving local Uganda producers connect with customers via verilib
 - 📫 How to reach me obetefelix@gmail.com
 <!---
 obete/obete is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
