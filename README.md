@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @obete, a Software Engineer, and a Registered Land Surveyor with knowledge of Android Development, GNSS Positioning, and Mapping 
+- 👋 Hi, I’m @obete, a Software Engineer, and a Registered Land Surveyor with knowledge of Machine Learning, Android Development, GNSS Positioning, and Mapping 
 - 👀 I’m passionate about solving problems at scale using software and mathematics.
 - 📫 How to reach me obetefelix@gmail.com
 <!---
